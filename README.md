@@ -1,6 +1,8 @@
-## What Is Web-Based Editor for PASS?
+## Web-Based Editor for PASS?
 
 The web-based editor for PASS enables device-independent modeling with PASS (Parallel Activity Specification Schema) without installing any software, just by visiting the website. The currently supported methods are still very rudimentary, but already allow the modeling of standard processes.
+
+The current version is published and can be found here: https://i2pm.github.io/Web-PASS-Modeler/
 
 ## History of Web-Based Editor for PASS
 
