@@ -12,6 +12,6 @@ module.exports = {
     },
     extract: false,
   },
-  publicPath: "/PASS/",
+  publicPath: "/Web-PASS-Modeler/",
   transpileDependencies: []
 };
